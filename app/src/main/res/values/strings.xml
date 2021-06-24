@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">forget</string>
+    <string name="title_activity_main">Forget</string>
+    <string name="title_activity_demo">Forget</string>
+    <string name="baslıkname">Başlık</string>
+
+    <string name="bildirimname">Notunuzu Giriniz</string>
+
+    <string name="savebuttonname">Kaydet</string>
+    <string name="mainbuttonname">KAYDETTİKLERİM</string>
+    <string name="Alternatifler">SEÇENEKLER</string>
+    <string name="plusbutton">Yeni</string>
+    <string name="updatebutton">Güncelle</string>
+    <string name="deletebutton">Sil</string>
+    <string name="tarihvesaatmenu">Tarih ve Saat</string>
+    <string name="konummenu">Konum</string>
+    <string name="notdefterimenu">NOT DEFTERİ</string>
+    <string name="notdefteripopup">Not Defteri</string>
+
+    <string name="konumal">KONUM AL</string>
+
+
+    <string name="alertbaslik">Emin misiniz?</string>
+    <string name="alerttext">Başlık Silinecek</string>
+    <string name="alertbuttondelete"> Evet </string>
+    <string name="alertbuttoncancel"> Hayır </string>
+
+
+    <string name="recording">Ses kayıt</string>
+    <string name="start">Başla</string>
+    <string name="stop">Dur</string>
+    <string name="play">Oynat</string>
+    <string name="playyeniden">Yeniden</string>
+    <string name="seshazır">Ses Kaydı Hazır</string>
+    <string name="sesbasladı">Ses Kaydı Başladı</string>
+    <string name="sesdurdu">Kayıd Tamamlandı</string>
+    <string name="sesizin">İzin Başarısız</string>
+
+    <string name="sesyenidendinle">Dinle</string>
+    <string name="sesok">Tamam</string>
+
+    <string name="uygulamahakkinda">UYGULAMA HAKKINDA</string>
+    <string name="seskaydet">SES KAYDET</string>
+
+    <string name="alarmgir">ALARM OLUŞTUR</string>
+
+    <string name="silinditoast">SİLİNDİ</string>
+
+    <string name="toastguncellendi">| Güncellendi |</string>
+    <string name="toastalarmkuruldu">| Alarm Kuruldu |</string>
+    <string name="toastrecording">| Kaydedildi |</string>
+
+    <string name="toastNotunuzOlusturuldu">| Notunuz Oluşturuldu |</string>
+    <string name="toastkonum">Bildirim Kaydedildi</string>
+
+    <string name="yeniyer">Konum Seçildi!</string>
+    <string name="yourlocation">Şu Anki Konum</string>
+
+    <string name="uzuncabas">Çıkmak için iki kere hızlı bas</string>
+
+    <string name="anlikkonum">Anlık Konum Göster</string>
+    <string name="konumbilgitext">Konum bilgisi için lütfen bekleyiniz</string>
+
+    <string name="splashtext">FORGET</string>
+    <string name="infosirket">Firma</string>
+    <string name="slogan">YAŞAMA DOKUNAN KOLAYLIK</string>
+    <string name="gelistirenekip">Geliştiriciler</string>
+    <string name="yeb">Yunus Emre Bay</string>
+    <string name="ab">Abdulsamet Bahçacı</string>
+    <string name="td"> Talha Dartay</string>
+    <string name="turkey">Made in TURKEY  </string>
+    <string name="sesdevam">Dinle</string>
+    <string name="lutfen">Simgesi Bilgilendirme Metnini Gösterir.</string>
+</resources>
